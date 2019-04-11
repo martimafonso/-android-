@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="candidate_background">#bbffffff</color>
+    <color name="candidate_normal">#FF000000</color>
+    <color name="candidate_other">#ff808080</color>
+    <color name="candidate_recommended">#FFE35900</color>
+    <dimen name="candidate_font_height">16sp</dimen>
+    <dimen name="candidate_vertical_padding">6sp</dimen>
+    <dimen name="key_height">50dip</dimen>
+    <string name="general_category">Geral</string>
+    <string name="ime_name">Teclado樣</string>
+    <string name="label_go_key">Vai</string>
+    <string name="label_next_key">次</string>
+    <string name="label_send_key">Enviar</string>
+    <string name="label_subtype_en_GB">Português (PT)</string>
+    <string name="label_subtype_generic">%s</string>
+    <string name="language_selection_title">入力言語</string>
+    <string name="select_language">選入力言語</string>
+    <string name="settings_name">樣輕鍵盘設定</string>
+    <string name="word_separators">\u0020.,;:!?\n()[]*&amp;@{}/&lt;>_+=|"</string>
+</resources>
