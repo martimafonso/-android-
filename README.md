@@ -7,4 +7,4 @@ Assim por Quinta Feira 11日 de Abril月 de 2019年, está praticamente com o me
 
 <b>Como Usar使用:</b>
 1.Transferir下載.
-2.Abrir com o Android Studio
+2.Abrir開 com o Android Studio
