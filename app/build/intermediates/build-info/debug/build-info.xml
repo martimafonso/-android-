@@ -6,23 +6,26 @@
     density="xxhdpi"
     format="10"
     plugin-version="3.3.2"
-    timestamp="1554868483611"
+    timestamp="1555702727743"
     token="2880246653884480589"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="642" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="86" />
     <task
         name="verifier"
-        duration="0" />
+        duration="107" />
 
+    <artifact
+        location="/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        type="SPLIT" />
     <artifact
         location="/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
         type="SPLIT" />
@@ -48,9 +51,6 @@
         location="/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-        type="SPLIT" />
-    <artifact
         location="/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
         type="SPLIT" />
     <artifact
@@ -59,8 +59,11 @@
 
     <build
         build-mode="FULL"
-        timestamp="1554868483611"
+        timestamp="1555702727743"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
         <artifact
             location="/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
@@ -84,9 +87,6 @@
             type="SPLIT" />
         <artifact
             location="/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
             location="/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
