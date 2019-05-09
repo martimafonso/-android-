@@ -1,4 +1,4 @@
-#Fri Apr 19 20:38:56 WEST 2019
+#Wed May 08 23:15:28 WEST 2019
 base.0=/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/transforms/dexMerger/debug/1
 path.0=classes.dex
 renamed.0=classes.dex
