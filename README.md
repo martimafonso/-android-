@@ -37,3 +37,6 @@ corretor
 
 終了:
 fixar ◀▶✅
+
+
+<p>如何 file does not start with PNG signature做aaptOptions { cruncherEnabled = false }其android的gradle{}</p>
