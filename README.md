@@ -32,8 +32,8 @@ em vez de
 [ 瑟 ] ❌
 (未做)problemas com multiplos carateres em construção como sentibom → 感
 (未做)xift + ←→ faz seleção蒼
-corretor 紅线de↓词
-罗马大帝國
+corretor 
+紅线de↓词
 
 終了:
 fixar ◀▶✅
