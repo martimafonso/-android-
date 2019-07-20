@@ -61,7 +61,7 @@
         <Key android:codes="103" android:keyLabel="g"/>
         <Key android:codes="104" android:keyLabel="h"/>
         <Key android:codes="106" android:keyLabel="j"/>
-        <Key android:codes="107" android:keyLabel="k"/>
+        <Key android:codes="0x5361" android:keyLabel="卡"/>
         <Key android:codes="108" android:keyLabel="l"/>
         <Key android:codes="231" android:keyLabel="ç" android:keyEdgeFlags="right"/>
     </Row>
@@ -94,8 +94,8 @@
                 android:keyWidth="40%p"/>
         <Key android:codes="32" android:keyLabel="ESPAÇO"
                 android:keyWidth="60%p" android:isRepeatable="true"/>
-        <Key android:codes="1" android:keyLabel="◀︎"/>
-        <Key android:codes="2" android:keyLabel="▶︎"/>
+        <Key android:codes="21" android:keyLabel="◀︎"/>
+        <Key android:codes="22 " android:keyLabel="▶︎"/>
         <Key android:codes="46,44" android:keyLabel=". ," />
         <Key android:codes="10" android:keyIcon="@drawable/sym_keyboard_return" 
                 android:keyWidth="30%p" android:keyEdgeFlags="right"/>

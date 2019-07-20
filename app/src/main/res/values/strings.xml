@@ -34,7 +34,7 @@
     <string name="label_subtype_en_GB">Português (PT)</string>
 
     <!-- Titles for ImePreference -->
-    <string name="settings_name">樣輕鍵盘設定</string>
+    <string name="settings_name">輕鍵盘設定</string>
     <string name="language_selection_title">入力言語</string>
     <string name="select_language">選入力言語</string>
     <string name="general_category">Geral</string>

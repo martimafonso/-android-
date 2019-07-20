@@ -21,8 +21,11 @@ import android.content.res.Resources;
 import android.content.res.XmlResourceParser;
 import android.graphics.drawable.Drawable;
 import android.inputmethodservice.Keyboard;
+import android.util.Log;
 import android.view.inputmethod.EditorInfo;
 import android.view.inputmethod.InputMethodManager;
+
+import static android.content.ContentValues.TAG;
 
 public class LatinKeyboard extends Keyboard {
 
@@ -61,6 +64,7 @@ public class LatinKeyboard extends Keyboard {
         super(context, layoutTemplateResId, characters, columns, horizontalPadding);
     }
 
+    //Não envia tecla nó texto
     @Override
     protected Key createKeyFromXml(Resources res, Row parent, int x, int y, 
             XmlResourceParser parser) {
@@ -84,6 +88,7 @@ public class LatinKeyboard extends Keyboard {
      * @param visible True if the language switch key should be visible.
      */
     void setLanguageSwitchKeyVisibility(boolean visible) {
+        Log.i(TAG, "setLanguageSwitchKeyVisibility: ");
         if (visible) {
             // The language switch key should be visible. Restore the size of the mode change key
             // and language switch key using the saved layout.
@@ -108,6 +113,7 @@ public class LatinKeyboard extends Keyboard {
      */
 
     void setImeOptions(Resources res, int options) {
+        Log.i(TAG, "setImeOptions: ");
         if (mEnterKey == null) {
             return;
         }
