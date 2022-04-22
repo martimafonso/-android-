@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "/Users/martimafonso/Documents/androidteclado (instável)/app/src/main/res/values-land/dimens.xml",
+                    "source": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\src\\main\\res\\values-land\\dimens.xml",
                     "from": {
                         "startLines": "21",
                         "startColumns": "4",
-                        "startOffsets": "692",
+                        "startOffsets": "713",
                         "endColumns": "42",
-                        "endOffsets": "730"
+                        "endOffsets": "751"
                     },
                     "to": {
                         "startLines": "2",
