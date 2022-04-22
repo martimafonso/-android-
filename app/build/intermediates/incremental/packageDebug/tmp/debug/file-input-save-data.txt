@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Fri Apr 22 02:17:16 BST 2022
+#Mon Jun 24 23:32:49 WEST 2019
 0.baseType=DIRECTORY
-0.base=C\:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.base=/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/dex/debug/mergeDexDebug/out
 0.path=classes.dex
 0.set=DEX
 count=1

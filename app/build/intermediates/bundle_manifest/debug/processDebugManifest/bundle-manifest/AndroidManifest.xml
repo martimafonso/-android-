@@ -6,8 +6,7 @@
 
     <application
         android:debuggable="true"
-        android:label="@string/ime_name"
-        android:testOnly="true" >
+        android:label="@string/ime_name" >
         <service
             android:name="com.example.android.softkeyboard.SoftKeyboard"
             android:permission="android.permission.BIND_INPUT_METHOD" >
