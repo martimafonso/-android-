@@ -1,4 +1,4 @@
-#Mon Jun 24 23:32:49 WEST 2019
-base.0=/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/dex/debug/mergeDexDebug/out
+#Fri Apr 22 02:17:16 BST 2022
+base.0=C\:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 path.0=classes.dex
 renamed.0=classes.dex

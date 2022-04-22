@@ -1,86 +1,86 @@
 [
     {
-        "merged": "/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/res/merged/debug/drawable-mdpi_sym_keyboard_return.png.flat",
-        "source": "/Users/martimafonso/Documents/androidteclado (instável)/app/src/main/res/drawable-mdpi/sym_keyboard_return.png"
+        "merged": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sym_keyboard_return.png.flat",
+        "source": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_return.png"
     },
     {
-        "merged": "/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/res/merged/debug/drawable-mdpi_sym_keyboard_shift.png.flat",
-        "source": "/Users/martimafonso/Documents/androidteclado (instável)/app/src/main/res/drawable-mdpi/sym_keyboard_shift.png"
+        "merged": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sym_keyboard_search.png.flat",
+        "source": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_search.png"
     },
     {
-        "merged": "/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/res/merged/debug/xml_method.xml.flat",
-        "source": "/Users/martimafonso/Documents/androidteclado (instável)/app/src/main/res/xml/method.xml"
+        "merged": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\build\\intermediates\\res\\merged\\debug\\xml_symbols.xml.flat",
+        "source": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\src\\main\\res\\xml\\symbols.xml"
     },
     {
-        "merged": "/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/res/merged/debug/drawable-mdpi_sym_keyboard_space.png.flat",
-        "source": "/Users/martimafonso/Documents/androidteclado (instável)/app/src/main/res/drawable-mdpi/sym_keyboard_space.png"
+        "merged": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sym_keyboard_space.png.flat",
+        "source": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_space.png"
     },
     {
-        "merged": "/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/res/merged/debug/drawable-hdpi_sym_keyboard_search.png.flat",
-        "source": "/Users/martimafonso/Documents/androidteclado (instável)/app/src/main/res/drawable-hdpi/sym_keyboard_search.png"
+        "merged": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a.png.flat",
+        "source": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\src\\main\\res\\drawable-hdpi\\a.png"
     },
     {
-        "merged": "/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/res/merged/debug/drawable-hdpi_sym_keyboard_delete.png.flat",
-        "source": "/Users/martimafonso/Documents/androidteclado (instável)/app/src/main/res/drawable-hdpi/sym_keyboard_delete.png"
+        "merged": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\build\\intermediates\\res\\merged\\debug\\layout_input.xml.flat",
+        "source": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\src\\main\\res\\layout\\input.xml"
     },
     {
-        "merged": "/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/res/merged/debug/drawable-mdpi_sym_keyboard_done.png.flat",
-        "source": "/Users/martimafonso/Documents/androidteclado (instável)/app/src/main/res/drawable-mdpi/sym_keyboard_done.png"
+        "merged": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sym_keyboard_return.png.flat",
+        "source": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_return.png"
     },
     {
-        "merged": "/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/res/merged/debug/layout_input.xml.flat",
-        "source": "/Users/martimafonso/Documents/androidteclado (instável)/app/src/main/res/layout/input.xml"
+        "merged": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\build\\intermediates\\res\\merged\\debug\\xml_symbols_shift.xml.flat",
+        "source": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\src\\main\\res\\xml\\symbols_shift.xml"
     },
     {
-        "merged": "/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/res/merged/debug/drawable-hdpi_sym_keyboard_return.png.flat",
-        "source": "/Users/martimafonso/Documents/androidteclado (instável)/app/src/main/res/drawable-hdpi/sym_keyboard_return.png"
+        "merged": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\build\\intermediates\\res\\merged\\debug\\xml_qwerty.xml.flat",
+        "source": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\src\\main\\res\\xml\\qwerty.xml"
     },
     {
-        "merged": "/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/res/merged/debug/drawable-mdpi_sym_keyboard_search.png.flat",
-        "source": "/Users/martimafonso/Documents/androidteclado (instável)/app/src/main/res/drawable-mdpi/sym_keyboard_search.png"
+        "merged": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sym_keyboard_done.png.flat",
+        "source": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_done.png"
     },
     {
-        "merged": "/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/res/merged/debug/drawable-hdpi_sym_keyboard_shift.png.flat",
-        "source": "/Users/martimafonso/Documents/androidteclado (instável)/app/src/main/res/drawable-hdpi/sym_keyboard_shift.png"
+        "merged": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sym_keyboard_delete.png.flat",
+        "source": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_delete.png"
     },
     {
-        "merged": "/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/res/merged/debug/xml_qwerty.xml.flat",
-        "source": "/Users/martimafonso/Documents/androidteclado (instável)/app/src/main/res/xml/qwerty.xml"
+        "merged": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\build\\intermediates\\res\\merged\\debug\\xml_ime_preferences.xml.flat",
+        "source": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\src\\main\\res\\xml\\ime_preferences.xml"
     },
     {
-        "merged": "/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/res/merged/debug/drawable-hdpi_sym_keyboard_language_switch.png.flat",
-        "source": "/Users/martimafonso/Documents/androidteclado (instável)/app/src/main/res/drawable-hdpi/sym_keyboard_language_switch.png"
+        "merged": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sym_keyboard_done.png.flat",
+        "source": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_done.png"
     },
     {
-        "merged": "/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/res/merged/debug/drawable-hdpi_sym_keyboard_done.png.flat",
-        "source": "/Users/martimafonso/Documents/androidteclado (instável)/app/src/main/res/drawable-hdpi/sym_keyboard_done.png"
+        "merged": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sym_keyboard_language_switch.png.flat",
+        "source": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_language_switch.png"
     },
     {
-        "merged": "/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/res/merged/debug/xml_ime_preferences.xml.flat",
-        "source": "/Users/martimafonso/Documents/androidteclado (instável)/app/src/main/res/xml/ime_preferences.xml"
+        "merged": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sym_keyboard_delete.png.flat",
+        "source": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_delete.png"
     },
     {
-        "merged": "/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/res/merged/debug/drawable-mdpi_sym_keyboard_language_switch.png.flat",
-        "source": "/Users/martimafonso/Documents/androidteclado (instável)/app/src/main/res/drawable-mdpi/sym_keyboard_language_switch.png"
+        "merged": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\build\\intermediates\\res\\merged\\debug\\xml_method.xml.flat",
+        "source": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\src\\main\\res\\xml\\method.xml"
     },
     {
-        "merged": "/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/res/merged/debug/drawable-hdpi_sym_keyboard_space.png.flat",
-        "source": "/Users/martimafonso/Documents/androidteclado (instável)/app/src/main/res/drawable-hdpi/sym_keyboard_space.png"
+        "merged": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sym_keyboard_language_switch.png.flat",
+        "source": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_language_switch.png"
     },
     {
-        "merged": "/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/res/merged/debug/drawable-mdpi_sym_keyboard_delete.png.flat",
-        "source": "/Users/martimafonso/Documents/androidteclado (instável)/app/src/main/res/drawable-mdpi/sym_keyboard_delete.png"
+        "merged": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sym_keyboard_shift.png.flat",
+        "source": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_shift.png"
     },
     {
-        "merged": "/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/res/merged/debug/xml_symbols.xml.flat",
-        "source": "/Users/martimafonso/Documents/androidteclado (instável)/app/src/main/res/xml/symbols.xml"
+        "merged": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sym_keyboard_search.png.flat",
+        "source": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_search.png"
     },
     {
-        "merged": "/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/res/merged/debug/xml_symbols_shift.xml.flat",
-        "source": "/Users/martimafonso/Documents/androidteclado (instável)/app/src/main/res/xml/symbols_shift.xml"
+        "merged": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sym_keyboard_space.png.flat",
+        "source": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_space.png"
     },
     {
-        "merged": "/Users/martimafonso/Documents/androidteclado (instável)/app/build/intermediates/res/merged/debug/drawable-hdpi_a.png.flat",
-        "source": "/Users/martimafonso/Documents/androidteclado (instável)/app/src/main/res/drawable-hdpi/a.png"
+        "merged": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sym_keyboard_shift.png.flat",
+        "source": "C:\\Users\\Utilizador\\Documents\\TecladoAndroidComCandidatos\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_shift.png"
     }
 ]
